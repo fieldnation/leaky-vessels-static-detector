@@ -31,6 +31,8 @@ private_*
 
 .dccache
 
+.idea
+
 cache
 gh_data
 node_modules
